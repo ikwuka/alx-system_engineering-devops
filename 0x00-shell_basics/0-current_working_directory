@@ -1,2 +1,2 @@
 #!/bin/bash
-realpath 0-current_working_directory
+realpath 0x00-shell_basics
