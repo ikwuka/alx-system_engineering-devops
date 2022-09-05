@@ -1,3 +1,3 @@
-This directory contains shell commands about I/O redirections and filters.
+## 0x02. Shell, I/O Redirections and filters
 
-More details shall be updated when due.
+This directory contains shell commands about I/O redirections and filters.
