@@ -1,4 +1,4 @@
-# ALX System Engineering DevOps
+# ALX Systems Engineering & DevOps
 
 ## Projects / Files Description
 
